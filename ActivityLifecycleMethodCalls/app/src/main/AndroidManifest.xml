@@ -21,7 +21,6 @@
         </activity>
 
         <service android:name=".services.ServiceUsingServiceClass"/>
-        <service android:name=".services.ServiceUsingIntentService"/>
     </application>
 
 </manifest>
